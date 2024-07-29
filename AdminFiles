@@ -1,0 +1,163 @@
+{
+  "source": "HungryRaccoonStudios/Windows",
+  "title": "AdminFiles",
+  "description": "AdminFiles",
+  "flashcards": [
+    {
+      "cardfront": "appwiz.cpl",
+      "cardback": "Programs and Features - Allows you to uninstall or change installed programs."
+    },
+    {
+      "cardfront": "bthprops.cpl",
+      "cardback": "Bluetooth Devices - Manages Bluetooth settings and devices."
+    },
+    {
+      "cardfront": "desk.cpl",
+      "cardback": "Display Settings - Adjust screen resolution, orientation, and other display settings."
+    },
+    {
+      "cardfront": "firewall.cpl",
+      "cardback": "Windows Firewall - Provides access to Windows Firewall settings."
+    },
+    {
+      "cardfront": "hdwwiz.cpl",
+      "cardback": "Add Hardware Wizard - Assists in adding new hardware devices."
+    },
+    {
+      "cardfront": "inetcpl.cpl",
+      "cardback": "Internet Properties - Configure internet settings and options."
+    },
+    {
+      "cardfront": "intl.cpl",
+      "cardback": "Region and Language - Configure regional and language options."
+    },
+    {
+      "cardfront": "irprops.cpl",
+      "cardback": "Infrared - Manage infrared hardware and settings."
+    },
+    {
+      "cardfront": "joy.cpl",
+      "cardback": "Game Controllers - Configure and calibrate game controllers."
+    },
+    {
+      "cardfront": "main.cpl",
+      "cardback": "Mouse Properties - Adjust mouse settings and configuration."
+    },
+    {
+      "cardfront": "mmsys.cpl",
+      "cardback": "Sound Settings - Manage sound and audio devices."
+    },
+    {
+      "cardfront": "ncpa.cpl",
+      "cardback": "Network Connections - Access network connections and configure settings."
+    },
+    {
+      "cardfront": "powercfg.cpl",
+      "cardback": "Power Options - Configure power settings and schemes."
+    },
+    {
+      "cardfront": "sysdm.cpl",
+      "cardback": "System Properties - Access system settings like computer name, hardware, and advanced system settings."
+    },
+    {
+      "cardfront": "TabletPC.cpl",
+      "cardback": "Tablet PC Settings - Configure pen and touch input settings (on compatible devices)."
+    },
+    {
+      "cardfront": "telephon.cpl",
+      "cardback": "Phone and Modem - Configure telephone and modem settings."
+    },
+    {
+      "cardfront": "timedate.cpl",
+      "cardback": "Date and Time - Configure date, time, and time zone settings."
+    },
+    {
+      "cardfront": "wscui.cpl",
+      "cardback": "Windows Security Center - View security status and manage security settings."
+    },
+    {
+      "cardfront": "azman.msc",
+      "cardback": "Authorization Manager - Manage authorization stores and policies."
+    },
+    {
+      "cardfront": "certlm.msc",
+      "cardback": "Certificates - Local Machine - Manage certificates for the local computer."
+    },
+    {
+      "cardfront": "certmgr.msc",
+      "cardback": "Certificates - Current User - Manage certificates for the current user."
+    },
+    {
+      "cardfront": "comexp.msc",
+      "cardback": "Component Services - Manage COM+ applications and services."
+    },
+    {
+      "cardfront": "compmgmt.msc",
+      "cardback": "Computer Management - Access various system tools including Disk Management and Event Viewer."
+    },
+    {
+      "cardfront": "devmgmt.msc",
+      "cardback": "Device Manager - Manage hardware devices and drivers."
+    },
+    {
+      "cardfront": "DevModeRunAsUserConfig.msc",
+      "cardback": "Development Mode User Configuration - Manage settings for developer mode and user configuration."
+    },
+    {
+      "cardfront": "diskmgmt.msc",
+      "cardback": "Disk Management - Manage disk drives and partitions."
+    },
+    {
+      "cardfront": "eventvwr.msc",
+      "cardback": "Event Viewer - View and analyze event logs on your computer."
+    },
+    {
+      "cardfront": "fsmgmt.msc",
+      "cardback": "Shared Folders - Manage shared folders and sessions."
+    },
+    {
+      "cardfront": "gpedit.msc",
+      "cardback": "Group Policy Editor - Configure local group policies."
+    },
+    {
+      "cardfront": "lusrmgr.msc",
+      "cardback": "Local Users and Groups - Manage local user accounts and groups."
+    },
+    {
+      "cardfront": "perfmon.msc",
+      "cardback": "Performance Monitor - Monitor system performance and resource usage."
+    },
+    {
+      "cardfront": "printmanagement.msc",
+      "cardback": "Print Management - Manage printers and print servers."
+    },
+    {
+      "cardfront": "rsop.msc",
+      "cardback": "Resultant Set of Policy - View the effect of group policy on the system."
+    },
+    {
+      "cardfront": "secpol.msc",
+      "cardback": "Local Security Policy - Manage local security policies and settings."
+    },
+    {
+      "cardfront": "services.msc",
+      "cardback": "Services - Manage services running on your system."
+    },
+    {
+      "cardfront": "taskschd.msc",
+      "cardback": "Task Scheduler - Schedule and manage automated tasks."
+    },
+    {
+      "cardfront": "tpm.msc",
+      "cardback": "Trusted Platform Module Management - Manage TPM security hardware."
+    },
+    {
+      "cardfront": "WF.msc",
+      "cardback": "Windows Firewall with Advanced Security - Configure advanced firewall settings."
+    },
+    {
+      "cardfront": "WmiMgmt.msc",
+      "cardback": "WMI Control - Manage Windows Management Instrumentation settings."
+    }
+  ]
+}
